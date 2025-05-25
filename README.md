@@ -46,7 +46,7 @@ This project was developed during a **virtual internship at Atliq Technologies**
 ## Experiment Tracking
 
 - All experiments tracked using **MLflow**.
-- **Remote logging enabled with [DagsHub]([https://dagshub.com/](https://dagshub.com/ishebee/survey-ml-flow-dagshub.mlflow/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D&compareRunsMode=ARTIFACT))**.
+- **Remote logging enabled with [DagsHub](https://dagshub.com/ishebee/survey-ml-flow-dagshub.mlflow/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D&compareRunsMode=ARTIFACT)**.
 - Tracked hyperparameters, evaluation metrics, and model artifacts.
 - Visual comparison of models helped identify the optimal pipeline.
 
